@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    color: rgb(0, 255, 255);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    color: rgb(0, 252, 185);
+}
+li {
+    color: rgb(0, 174, 255);
+    text-align: left;
+}
+a {
+    border-radius: 30px;
+    background-color: rgb(38, 255, 92);
+    border-top-style: groove;
+    border-bottom-style: groove;
+    border-color: blueviolet;
+    padding: 3px;
+}
+img{
+    border-radius: 40px;
+}
+form {
+    color: blueviolet;
+}
+Button {
+    background-color: rgb(164, 1, 34);
+}
+#main-header {
+    text-align: center;
+    color: rgb(185, 81, 255);
+    padding: 10px;
+    background-color: darkgreen;
+}
+#main-footer {
+    text-align: center;
+    font-size: 18px;
+}
+#button {
+    color: rgb(0, 187, 255);
+    border-radius: 0px;
+    border-bottom-style: none;
+    border-top-style: none;
+    border: 0px;
+    padding: 0px;
+    background-color: rgba(255, 255, 255, 0);
+}
